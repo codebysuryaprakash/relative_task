@@ -1,0 +1,48 @@
+.team-member{
+    border: solid 5px;
+    min-height: 500px;
+    width: 200px;
+    
+}
+
+.image_wrapper{
+    height: 200px;
+    background-color: black;
+    background-image: url(profile.jpg);
+    background-position: top;
+    background-size: cover;
+
+}
+
+.up-arrow{
+    position: relative;
+    width: 50px;
+    top: 157px;
+    left: 70px;   
+}
+
+.content_wrapper{
+    position: relative;
+    height: 200px;
+    width: 190px;
+    text-align: justify;
+}
+
+.content_wrapper h1{
+    
+    font-size: 14px;
+    margin-top: 1rem;
+    text-align: center;
+    
+}
+
+.content_wrapper span{
+    position: absolute;
+    bottom: 200px;
+    left: 110px;
+    font-size: 12px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 3px;
+    
+}
